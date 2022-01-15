@@ -3,7 +3,8 @@
 Here we present our baseline model for our Term 2 Football Forecasting Competition.
 
 
-*Register for Term 2!*
+*Register for Term 2 at the link below!*
+
 https://sports.wdss.io/#/
 
 **Term 1 Winners**
